@@ -17,7 +17,7 @@ for x in range(1,9):
         print("laba bulan ke-",x," : ",b)
     if(x>=3 and x<=4):
         c = a*0.1
-        total += d
+        total += c
         print("laba bulan ke-",x," : ",c)
     if(x>=5 and x<=7):
         d = a*0.5
